@@ -56,7 +56,7 @@ All useful things are in Google and StackOverflow
 ## Author
 
 - LinkedIn - [Johan Martinez](https://www.linkedin.com/in/johanmartinezfx/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@zohanfx](https://www.frontendmentor.io/profile/zohanfx)
 
 ## Acknowledgments
 
